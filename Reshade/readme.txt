@@ -7,6 +7,7 @@ I think it's the literacy of programmers to want to try anything good and intere
 Whether it's good or bad, I'm the only one who has it. 
 I continued to use edit d3d9.dll with hexeditor even after the reshade was blocked in Ark 1 when others ppl cant use becasue of block reshade by BE.
 There's never been a ban i got yet.
+#If it doesn't work on the official server, change it through the console command.
 BUT
 Use own risk
 
